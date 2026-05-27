@@ -9,7 +9,7 @@
 ```page.tsx
   <img
     className="rounded-lg"
-    src="https://raw.githubusercontent.com/EPW17-ITS/public-assets/main/not-everybody-got-an-iphone-cold-emoji-someone-please-make-v0-7kya8qw0xmjd1.webp"
+    src="https://raw.githubusercontent.com/EPW17-ITS/public-assets/main/emoji.webp"
     alt="testing"
     width={700}
     height={700}
